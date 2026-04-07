@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /404
+Disallow: /500
+Disallow: /personal-data-regulations*
+Disallow: /personal-data-regulations-agreement
+Disallow: /personal-data-regulations-cookie
+Disallow: /personal-data-regulations-skills-hunter-offert
+
+Allow: /
+
+Sitemap: https://xn----8sbag2aehcd5adl2ah.xn--p1ai/sitemap.xml
